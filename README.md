@@ -4,8 +4,8 @@
 
 | Name | SRN |
 |------|-----|
-| Supreeth K | PES1UG24CS483 |
-| Shrihari Nagesh | PES1UG24CS445 |
+| Namith Kumar C | PES1UG24AM171 |
+| Niranjan S | PES1UG24AM177|
 
 ---
 
