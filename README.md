@@ -4,9 +4,9 @@
 
 | Name | SRN |
 |------|-----|
-| Namith Kumar C | PES1UG24AM171 |
-| Niranjan S | PES1UG24AM177|
-
+| Nischay | PES1UG24AM178 |
+| Mehraajuddin | PES1UG24AM159|
+| Deepesh M| PES1UG24AM150|
 ---
 
 ## Build, Load, and Run Instructions
